@@ -9,12 +9,14 @@ Install npm packages using the command
 
 ```bash
 npm install
-````
+```
+
 After installing npm packages use this command to start the application
 
 ```bash
 npm start
-````
+```
+
 ## Deployment
 
-https://blog-app-kt.netlify.app/
+https://blog-app3-kt.netlify.app/
